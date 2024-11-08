@@ -1,7 +1,7 @@
 
 # Immersed in Time: A London Co-Working Scene
 
-![Artwork Placeholder](image-link-here)
+![Artwork Placeholder](https://github.com/daviderota/Solana_Digital_Artwork/blob/main/Artwork.png)
 
 ## Concept Overview
 
